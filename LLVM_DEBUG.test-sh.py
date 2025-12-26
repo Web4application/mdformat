@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 # -*- python -*-
 # RUN: %{python} %s '%swift_src_root'
-
 import os.path
 import subprocess
 import sys
